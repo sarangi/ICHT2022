@@ -16,7 +16,7 @@
 					<h2>Humans and Technology: A Holistic and Symbiotic Approach to Sustainable Development</h2>
 					<h6>17-22 January 2022, India</h6>
 					<!-- Action Button -->
-					<a href="#" class="btn btn-white-md">get registered now</a>
+					<a href="#" class="btn btn-white-md">get registered now!</a>
 				</div>
 			</div>
 		</div>
