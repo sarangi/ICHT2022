@@ -133,7 +133,7 @@
 							<!-- Collapse Body -->
 							<div id="collapseFive" class="collapse" data-parent="#accordion Two">
 							  <div class="card-body">
-								<b class="coordinator">Dr. Sopna V Muhammed, 9447918418</b>
+							  	<b class="coordinator">Dr. Bindu Jamal, 9048266066</b>
 								<ul>
 										<li>Power  and Sustainable Development</li>
 										<li>Ethics of the Digital Soul: Sustainability and Artificial Intelligence</li>
@@ -159,7 +159,7 @@
 							<!-- Collapse Body -->
 							<div id="collapseSix" class="collapse" data-parent="#accordion Two">
 							  	<div class="card-body">
-									<b class="coordinator">Dr. Bindu Jamal, 9048266066</b>
+								  	<b class="coordinator">Dr. Sopna V Muhammed, 9447918418</b>
 									<ul>
 										<li>Finance and Financial Inclusion</li>
 										<li>Entrepreneurship and Startups</li>

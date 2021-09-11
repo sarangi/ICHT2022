@@ -12,8 +12,8 @@
 		<h4>ICHT2022 Coordinator</h4>
 		<h6>Mrs. Jaseena K U</h6>
 		<div class="content text-left">
-			<p style="color: #222222;">Mob: +91 9847080148<br>e-mail: jaseena.mes@gmail.com <br><br>
-				MES College Marampally<br>Marampally PO, North Vazhakulam<br>Ernakulam (Dt.), Kerala<br>India - 683107.
+			<p style="color: #222222;">Mob: +91 9847080148<br>e-mail: icht2022@mesmarampally.org <br><br>
+				MES College Marampally<br>Marampally PO, North Vazhakulam<br>Ernakulam (Dt.), Kerala<br>India - 683105.
 			</p>
 		</div>
 	</div>
