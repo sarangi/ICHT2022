@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php 
+$schedule = 'active';
+include 'header.php';?>
 <?php include 'schedule_detail_1.php';?>
 <?php 
 //include 'schedule_detail_2.php';

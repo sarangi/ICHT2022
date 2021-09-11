@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php 
+$about_us = 'active';
+include 'header.php';?>
 <?php include 'about_us_1.php';?>
 <?php include 'about_us_3.php';?>
 <?php include 'about_us_4_1.php';?>

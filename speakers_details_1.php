@@ -8,7 +8,7 @@
 			<div class="col-12">
 				<!-- Section Title -->
 				<div class="section-title">
-					<h3>Who <span class="alternate">Speaking?</span></h3>
+					<h3>ICHT 2022<span class="alternate"> Speakers</span></h3>
 					<p>List of Speakers with Photographs</p>
 				</div>
 			</div>

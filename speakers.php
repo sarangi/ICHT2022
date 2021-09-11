@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php 
+$speakers = 'active';
+include 'header.php';?>
 <?php include 'speakers_details_1.php';?>
 <?php 
 //include 'speakers_details_2.php';

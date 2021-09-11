@@ -8,7 +8,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="section-title">
-					<h3>Event <span class="alternate">Schedule</span></h3>
+					<h3>ICHT 2022<span class="alternate"> Schedule</span></h3>
 					<p>Time, Speaker, Subject, Venue</p>
 				</div>
 			</div>

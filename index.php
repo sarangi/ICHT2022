@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php 
+$home = 'active';
+include 'header.php';?>
 <!--============================
 =            Banner            =
 =============================-->
@@ -37,6 +39,6 @@
 // include 'register.php';
 ?>
 
-<?php include 'contact_details_2.php';?>
+<?php include 'contact_details_3.php';?>
 
 <?php include 'footer.php';?>

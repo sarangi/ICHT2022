@@ -44,33 +44,33 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav mx-auto">
-        <li class="nav-item active">
+        <li class="nav-item <?php echo $home ?>">
 			<a class="nav-link" href="index.php">Home
 			  <span>/</span>
 			</a>
 		</li>
-		<li class="nav-item">
+		<li class="nav-item <?php echo $about_us ?>">
           <a class="nav-link" href="about_us.php">ICHT 2022
             <span>/</span>
           </a>
         </li>
-		<li class="nav-item">
+		<li class="nav-item <?php echo $track ?>">
 			<a class="nav-link" href="track.php">Tracks
 			  <span>/</span>
 			</a>
 		</li>
-		<li class="nav-item">
+		<li class="nav-item <?php echo $speakers ?>">
 			<a class="nav-link" href="speakers.php">Speakers
 			  <span>/</span>
 			</a>
 		</li>
-        <li class="nav-item">
+        <li class="nav-item <?php echo $schedule ?>">
           <a class="nav-link" href="schedule.php">Schedule<span>/</span></a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="sponsors.php">Important Dates<span>/</span></a>
+        <li class="nav-item <?php echo $dates ?>">
+          <a class="nav-link" href="important_dates.php">Important Dates<span>/</span></a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item <?php echo $contact ?>">
           <a class="nav-link" href="contact.php">Contact</a>
         </li>
       </ul>

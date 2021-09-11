@@ -28,12 +28,13 @@
 							<!-- Collapse Body -->
 							<div id="collapseOne" class="collapse" data-parent="#accordion One">
 							  	<div class="card-body">
-								<ul>
-									<li>Computational Methods, Algorithms, Computational Biology and Scientific Applications</li>
-									<li>High Performance Computing and Networks</li>
-									<li>Advanced and Emerging Technologies and Applications</li>
-									<li>Information Systems and Technologies</li>
-								</ul>
+									<b class="coordinator">Dr. Julie M David, 9447104152</b>
+									<ul>
+										<li>Computational Methods, Algorithms, Computational Biology and Scientific Applications</li>
+										<li>High Performance Computing and Networks</li>
+										<li>Advanced and Emerging Technologies and Applications</li>
+										<li>Information Systems and Technologies</li>
+									</ul>
 							  	</div>
 							</div>
 						</div>
@@ -50,15 +51,16 @@
 							<!-- Collapse Body -->
 							<div id="collapseTwo" class="collapse" data-parent="#accordion One">
 							  	<div class="card-body">
-							  	<ul>
-									<li>RF, Microwave and Terahertz Communication</li>
-									<li>Signal and Image Processing</li>
-									<li>Embedded Systems and Real Time Computing</li>
-									<li>VLSI Circuits and Systems</li>
-									<li>Instrumentation and Measurement Technology</li>
-									<li>Automation, Control and Safety</li>
-									<li>Intelligent Robots and Security Systems</li>
-								</ul>
+									<b class="coordinator">Sam Kollannore U, 9447466716</b>
+									<ul>
+										<li>RF, Microwave and Terahertz Communication</li>
+										<li>Signal and Image Processing</li>
+										<li>Embedded Systems and Real Time Computing</li>
+										<li>VLSI Circuits and Systems</li>
+										<li>Instrumentation and Measurement Technology</li>
+										<li>Automation, Control and Safety</li>
+										<li>Intelligent Robots and Security Systems</li>
+									</ul>
 							  	</div>
 							</div>
 						</div>
@@ -75,12 +77,13 @@
 							<!-- Collapse Body -->
 							<div id="collapseThree" class="collapse" data-parent="#accordion One">
 							  	<div class="card-body">
-							  	<ul>
-									<li>Biochemistry, Biotechnology and Bioengineering</li>
-									<li>Molecular Endocrinology & Nanotechniques</li>
-									<li>Ecology and Environmental Health</li>
-									<li>Microbiology, Immunology and Infectious Diseases</li>
-								</ul>
+									<b class="coordinator">Dr. Mini K Paul, 9745629677</b>
+									<ul>
+										<li>Biochemistry, Biotechnology and Bioengineering</li>
+										<li>Molecular Endocrinology & Nanotechniques</li>
+										<li>Ecology and Environmental Health</li>
+										<li>Microbiology, Immunology and Infectious Diseases</li>
+									</ul>
 							  	</div>
 							</div>
 						</div>
@@ -97,16 +100,17 @@
 							<!-- Collapse Body -->
 							<div id="collapseFour" class="collapse" data-parent="#accordion One">
 								<div class="card-body">
-							  	<ul>
-									<li>Nano hybrid materials</li>
-									<li>Bio-nano composites</li>
-									<li>Nanomaterials for Packaging application</li>
-									<li>Nano-materials, nano-electronics and nano-optics</li>
-									<li>Condensed matter physics</li>
-									<li>Superconductivity</li>
-									<li>Discrete Mathematics</li>
-									<li>Reliability Theory</li>
-								</ul>
+									<b class="coordinator">Dr. Nithin Chandran, 9995392693</b>
+									<ul>
+										<li>Nano hybrid materials</li>
+										<li>Bio-nano composites</li>
+										<li>Nanomaterials for Packaging application</li>
+										<li>Nano-materials, nano-electronics and nano-optics</li>
+										<li>Condensed matter physics</li>
+										<li>Superconductivity</li>
+										<li>Discrete Mathematics</li>
+										<li>Reliability Theory</li>
+									</ul>
 							  	</div>
 							</div>
 						</div>
@@ -129,14 +133,15 @@
 							<!-- Collapse Body -->
 							<div id="collapseFive" class="collapse" data-parent="#accordion Two">
 							  <div class="card-body">
-							  <ul>
-									<li>Power  and Sustainable Development</li>
-									<li>Ethics of the Digital Soul: Sustainability and Artificial Intelligence</li>
-									<li>Migration and Human Ecology </li>
-									<li>Gendered Dimensions of Environmental protest in South Asia</li>
-									<li>Climate change and Imagination</li>
-									<li>Environmental films and documentaries </li>
-									<li>Humanities in the post Human Era of the Anthropocene</li>
+								<b class="coordinator">Dr. Sopna V Muhammed, 9447918418</b>
+								<ul>
+										<li>Power  and Sustainable Development</li>
+										<li>Ethics of the Digital Soul: Sustainability and Artificial Intelligence</li>
+										<li>Migration and Human Ecology </li>
+										<li>Gendered Dimensions of Environmental protest in South Asia</li>
+										<li>Climate change and Imagination</li>
+										<li>Environmental films and documentaries </li>
+										<li>Humanities in the post Human Era of the Anthropocene</li>
 								</ul>
 							  </div>
 							</div>
@@ -154,23 +159,24 @@
 							<!-- Collapse Body -->
 							<div id="collapseSix" class="collapse" data-parent="#accordion Two">
 							  	<div class="card-body">
-								 <ul>
-								 	<li>Finance and Financial Inclusion</li>
-									 <li>Entrepreneurship and Startups</li>
-									 <li>Investment and Share Markets</li>
-									 <li>Banking, Insurance and Auditing</li>
-									 <li>Governance and CSR Practices</li>
-									 <li>Sustainable Marketing Strategies</li>
-									 <li>Sustainable HRM Practices</li>
-									 <li>Technology & Human Behaviour</li>
-									 <li>Sustainability in Supply Chain Management</li>
-									 <li>New Trends in Logistics & Transportation Practice</li>
-									 <li>Sustaining Fashion Business through Innovation</li>
-									 <li>Contemporisation of Traditional Art for Sustainable Development</li>
-									 <li>Graphic Design and Culture</li>
-									 <li>Animation and Entertainment</li>
-									 <li>Economic Sustainability & Tourism Development</li>
-								</ul>
+									<b class="coordinator">Dr. Bindu Jamal, 9048266066</b>
+									<ul>
+										<li>Finance and Financial Inclusion</li>
+										<li>Entrepreneurship and Startups</li>
+										<li>Investment and Share Markets</li>
+										<li>Banking, Insurance and Auditing</li>
+										<li>Governance and CSR Practices</li>
+										<li>Sustainable Marketing Strategies</li>
+										<li>Sustainable HRM Practices</li>
+										<li>Technology & Human Behaviour</li>
+										<li>Sustainability in Supply Chain Management</li>
+										<li>New Trends in Logistics & Transportation Practice</li>
+										<li>Sustaining Fashion Business through Innovation</li>
+										<li>Contemporisation of Traditional Art for Sustainable Development</li>
+										<li>Graphic Design and Culture</li>
+										<li>Animation and Entertainment</li>
+										<li>Economic Sustainability & Tourism Development</li>
+									</ul>
 							  	</div>
 							</div>
 						</div>
@@ -187,17 +193,18 @@
 							<!-- Collapse Body -->
 							<div id="collapseSeven" class="collapse" data-parent="#accordion Two">
 							  	<div class="card-body">
-							  	<ul>
-								  	<li>Fitness Career abroad, performance enhancement, Talent identification</li>
-									  <li>Covid and Breathing techniques</li>
-									  <li>Yoga and wellness</li>
-									  <li>Self defense for Women</li>
-									  <li>Martial arts and fitness</li>
-									  <li>Mental health and Physical fitness</li>
-									  <li>Wearable technology in the fitness space</li>
-									  <li>Strength training needs for daily life</li>
-									  <li>Muscle Atrophy After Injury Guide</li>
-								</ul>
+									<b class="coordinator">Haneefa K G, 9995508893</b>
+									<ul>
+										<li>Fitness Career abroad, performance enhancement, Talent identification</li>
+										<li>Covid and Breathing techniques</li>
+										<li>Yoga and wellness</li>
+										<li>Self defense for Women</li>
+										<li>Martial arts and fitness</li>
+										<li>Mental health and Physical fitness</li>
+										<li>Wearable technology in the fitness space</li>
+										<li>Strength training needs for daily life</li>
+										<li>Muscle Atrophy After Injury Guide</li>
+									</ul>
 							  	</div>
 							</div>
 						</div>
