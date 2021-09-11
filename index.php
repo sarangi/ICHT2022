@@ -18,7 +18,8 @@ include 'header.php';?>
 					<h2>Humans and Technology: A Holistic and Symbiotic Approach to Sustainable Development</h2>
 					<h6>17-22 January 2022, India</h6>
 					<!-- Action Button -->
-					<a href="sponsors.php" class="btn btn-white-md">important dates</a>
+					<a href="important_dates.php" class="btn btn-white-md" style="margin-top: 10px;">important dates</a>
+					<a href="callforpaper.php" class="btn btn-white-md" style="margin-top: 10px;">Call for papers</a>
 				</div>
 			</div>
 		</div>
