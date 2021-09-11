@@ -74,9 +74,8 @@
           <a class="nav-link" href="contact.php">Contact</a>
         </li>
       </ul>
-      <a href="#" class="ticket">
-        <img src="images/icon/ticket.png" alt="ticket">
-        <span>Registration</span>
+      <a href="callforpaper.php" class="ticket">
+        <span>Call for Papers</span>
       </a>
       </div>
   </div>
