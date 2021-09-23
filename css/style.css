@@ -3653,7 +3653,7 @@ ul.pagination .active a {
 } 
 
 .faq .accordion-block #accordion .card .card-body .coordinator::before, .faq .accordion-block #accordionTwo .card .card-body .coordinator::before {
-  content: "Committee - ";
+  content: "Coordinator - ";
   color: #ff6600;
 }
 
