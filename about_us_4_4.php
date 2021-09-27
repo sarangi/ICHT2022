@@ -48,8 +48,8 @@
 										<li>Dr. Justin Paul, Professor, University of Puerto Rico, San Juan, PR, USA. Distinguished Professor, IIM, Kerala, India & Former Faculty member, University of Washington.</li>
 										<li>Dr. K A Zakkariya, Director, DDU Kaushal Kendra and Professor, School of Management Studies, Cochin University of Science and Technology, Kochi, Kerala, India.</li>
 										<li>Prof. Leons Wilfred Vaz, Dean, Department of Physical Education, Pedagogy, LNIPE, Gwalior Madhya Pradesh, India.</li>
-										<li>Dr. Madhu S Nair, Professor, Department of Computer Applications, Cochin University of Science and Technology, Kerala, India.</li>
-										<li>Dr. Sabu M K, Professor and Head, Department of Computer Applications, Cochin University of Science and Technology, Kerala, India.</li>
+										<li>Dr. M K Sabu, Professor and Head, Department of Computer Applications, Cochin University of Science and Technology, Kerala, India.</li>
+										<li>Dr. Madhu S Nair, Professor, Department of Computer Science, Cochin University of Science and Technology, Kerala, India.</li>
 										<li>Dr. Sibichan K Mathew, Professor and Head (Research), Fashion Management Studies, National Institute of Fashion Technology (NIFT), Delhi, India.</li>
 									</ul>
 							  	</div>

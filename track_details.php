@@ -30,9 +30,15 @@
 							  	<div class="card-body">
 									<b class="coordinator">Dr. Julie M David, 9447104152</b>
 									<ul>
-										<li>Computational Methods, Algorithms, Computational Biology and Scientific Applications</li>
 										<li>High Performance Computing and Networks</li>
-										<li>Advanced and Emerging Technologies and Applications</li>
+										<li>Parallel and Distributed Computing</li>
+										<li>Mobile Computing and Cloud Computing</li>
+										<li>Computer and Network Architecture</li>
+										<li>Big Data Analytics and Applications</li>
+										<li>Data Science and Machine Learning</li>
+										<li>Artificial Intelligence and Image Processing</li>
+										<li>Natural Language Processing</li>
+										<li>Data Mining Applications in Science and Engineering</li>
 										<li>Information Systems and Technologies</li>
 									</ul>
 							  	</div>
@@ -102,12 +108,12 @@
 								<div class="card-body">
 									<b class="coordinator">Dr. Nithin Chandran, 9995392693</b>
 									<ul>
-										<li>Nano hybrid materials</li>
-										<li>Bio-nano composites</li>
-										<li>Nanomaterials for Packaging application</li>
-										<li>Nano-materials, nano-electronics and nano-optics</li>
-										<li>Condensed matter physics</li>
-										<li>Superconductivity</li>
+										<li>Nanohybrid Materials</li>
+										<li>Bio-nano Composites</li>
+										<li>Nanomaterials for Packaging Application</li>
+										<li>Nano-materials, Nano-electronics and Nano-optics</li>
+										<li>Condensed Matter Physics</li>
+										<li>Superconductivity </li>
 										<li>Discrete Mathematics</li>
 										<li>Reliability Theory</li>
 									</ul>
@@ -135,13 +141,14 @@
 							  <div class="card-body">
 							  	<b class="coordinator">Dr. Bindu Jamal, 9048266066</b>
 								<ul>
-										<li>Power  and Sustainable Development</li>
-										<li>Ethics of the Digital Soul: Sustainability and Artificial Intelligence</li>
-										<li>Migration and Human Ecology </li>
-										<li>Gendered Dimensions of Environmental protest in South Asia</li>
-										<li>Climate change and Imagination</li>
-										<li>Environmental films and documentaries </li>
-										<li>Humanities in the post Human Era of the Anthropocene</li>
+									<li>Power  and Sustainable Development</li>
+									<li>Ethics, Digital Soul, Sustainability,  Artificial Intelligence</li>
+									<li>Migration and Human Ecology </li>
+									<li>Gendered Dimensions of Environmental Protest in South Asia</li>
+									<li>Climate Change and Human World</li>
+									<li>Environmental Films, Documentaries, Media</li>
+									<li>Humanities, Post Human Era, Anthropocene</li>
+									<li>Ecopolitics and Globalisation</li>
 								</ul>
 							  </div>
 							</div>
@@ -195,15 +202,14 @@
 							  	<div class="card-body">
 									<b class="coordinator">Haneefa K G, 9995508893</b>
 									<ul>
-										<li>Fitness Career abroad, performance enhancement, Talent identification</li>
-										<li>Covid and Breathing techniques</li>
-										<li>Yoga and wellness</li>
-										<li>Self defense for Women</li>
-										<li>Martial arts and fitness</li>
-										<li>Mental health and Physical fitness</li>
-										<li>Wearable technology in the fitness space</li>
-										<li>Strength training needs for daily life</li>
-										<li>Muscle Atrophy After Injury Guide</li>
+										<li>Performance Enhancement</li>
+										<li>Talent Identification</li>
+										<li>Physical Literacy</li>
+										<li>Covid 19 Opportunities Amidst Pandemic</li>
+										<li>Masterminding the Fitness Market</li>
+										<li>Self Defense and Fitness</li>
+										<li>Wearable Technology in the Fitness Space</li>
+										<li>Strength Training needs for Daily Life </li>
 									</ul>
 							  	</div>
 							</div>
