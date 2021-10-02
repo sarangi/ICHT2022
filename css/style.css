@@ -1653,8 +1653,8 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .schedule.two .schedule-contents {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   padding: 0;
 }
 
@@ -1729,13 +1729,14 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .schedule.two .schedule-contents .schedule-item li.headings {
-  padding: 25px 0;
+  padding: 10px 0;
   background: #ff6600;
 }
 
 .schedule.two .schedule-contents .schedule-item li.headings div {
   color: #fff;
   text-transform: uppercase;
+  font-weight: 500;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -1753,14 +1754,16 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .schedule.two .schedule-contents .schedule-item li.schedule-details .block div {
-  padding-top: 25px;
-  padding-bottom: 25px;
+  height:auto;
+  padding:10px;
+  font-size: .875em;
+  font-weight: 500;
   color: #222222;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .schedule.two .schedule-contents .schedule-item li.schedule-details .block div i {
-  font-size: 1.1875em;
+  font-size: .875em;
   color: #c7c8c9;
 }
 
