@@ -19,7 +19,7 @@
 					  	<!-- Headings -->
 					  	<ul class="m-0 p-0">
 					  		<li class="headings text-center">
-					  			<div class="time">Day</div>
+					  			<div class="time">2022</div>
 					  			<div class="speaker">Stream-1</div>
 					  			<div class="subject">Stream-2</div>
 					  			<div class="venue">Stream-3</div>
@@ -29,7 +29,7 @@
 					  			<div class="block">
 					  				<!-- time -->
 							  		<div class="time">
-							  			<span class="time">September 17</span>
+							  			<span class="time">Jan 17</span>
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
@@ -46,7 +46,7 @@
 					  			<div class="block">
 						  			<!-- time -->
 							  		<div class="time">
-							  			<span class="time">September 18</span>
+							  			<span class="time">Jan 18</span>
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
@@ -63,7 +63,7 @@
 					  			<div class="block">
 						  			<!-- time -->
 							  		<div class="time">
-							  			<span class="time">September 19</span>
+							  			<span class="time">Jan 19</span>
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
@@ -80,7 +80,7 @@
 					  			<div class="block">
 						  			<!-- time -->
 							  		<div class="time">
-							  			<span class="time">September 20</span>
+							  			<span class="time">Jan 20</span>
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
@@ -97,7 +97,7 @@
 					  			<div class="block">
 						  			<!-- time -->
 							  		<div class="time">
-							  			<span class="time">September 21</span>
+							  			<span class="time">Jan 21</span>
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
@@ -114,7 +114,7 @@
 					  			<div class="block">
 						  			<!-- time -->
 							  		<div class="time">
-							  			<span class="time">September 22</span>
+							  			<span class="time">Jan 22</span>
 							  		</div>
 							  		<!-- Speaker -->
 							  		<div class="speaker">
