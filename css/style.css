@@ -2211,13 +2211,14 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .sponsors .block .image-block {
-  padding: 45px 0;
+  padding: 20px 0;
   background: #fff;
   width: 244px;
   cursor: pointer;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
-  border: 1px solid transparent;
+  border: 1px solid #e65c00;
+  border-radius: 5px;
   margin-bottom: 10px;
 }
 
@@ -2226,6 +2227,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .sponsors .block .image-block:hover {
+  background: #e66108;
   border: 1px solid #ff6600;
 }
 

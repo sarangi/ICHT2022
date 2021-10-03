@@ -27,24 +27,27 @@
 									Camera Ready Copy Submission<br><b>27 December 2021</b>
 								</a>
 							</div>
-						</li>						<li class="list-inline-item">
+						</li>						
+						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="#" style="color:#222222">
 									<!-- <img src="images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid"> -->
 									Registration<br><b>27 December 2021</b>
 								</a>
 							</div>
-						</li>						<li class="list-inline-item">
+						</li>						
+						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="#" style="color:#222222">
 									<!-- <img src="images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid"> -->
 									Date of Conference<br><b>17 - 22 January 2022</b>
 								</a>
 							</div>
-						</li>					</ul>
+						</li>					
+					</ul>
 				</div>
 				<div class="sponsor-btn text-center">
-					<a href="#" class="btn btn-main-md">Registration</a>
+					<a href="callforpaper.php" class="btn btn-main-md">Registration</a>
 				</div>
 			</div>
 		</div>
