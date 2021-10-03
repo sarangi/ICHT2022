@@ -33,7 +33,7 @@ include 'header.php';?>
 <?php include 'about_us_3.php';?>
 <?php include 'about_us_5.php';?>
 
-<?php include 'schedule_detail_1.php';?>
+<?php include 'schedule_detail_2_1.php';?>
 <?php include 'schedule_detail_3.php';?>
 
 <?php 
