@@ -312,7 +312,7 @@
 								  	<b class="committee">Web Administrators:</b>
 									<ul>
 										<li>Dr. R Murugan, Associate Professor and Head, Department of Computer Applications, MES College Marampally, Kerala, India.</li>
-										<li>Mr. Muhammed Sajad K E, Assistant Professor, Department of Software Development and System Administration, MES College Marampally, Kerala, India.</li>
+										<li>Lt. Ibrahim Salim M, Assistant Professor, Department of Computer Applications, MES College Marampally, Kerala, India.</li>
 									</ul>
 							  	</div>
 							</div>
