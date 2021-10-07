@@ -20,9 +20,9 @@
 					  	<ul class="m-0 p-0">
 					  		<li class="headings text-center">
 					  			<div class="time">2022</div>
-					  			<div class="speaker">Stream-1</div>
-					  			<div class="subject">Stream-2</div>
-					  			<div class="venue">Stream-3</div>
+					  			<div class="speaker"></div>
+					  			<div class="subject">Tracks</div>
+					  			<div class="venue"></div>
 					  		</li>
 					  		<!-- Schedule Details -->
 					  		<li class="schedule-details text-center">
