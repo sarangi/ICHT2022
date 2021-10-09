@@ -27,17 +27,33 @@
 						single column format. The manuscript should be be original and unpublished 
 						work of the authors to consider for publication. The plagiarism in text similarity 
 						must be kept to a maximum of 15% to consider the manuscript for acceptance. <b>The 
-						paper should be set according to the AIP Conference paper format. The template is 
-						provided in the downloads section of the website</b>. <br>
-						You can also refer: <a href="http://aip.scitation.org/apc/authors/preppapers" 
-						target="_blank" >http://aip.scitation.org/apc/authors/preppapers</a>
+						paper should be set according to the AIP Conference paper format.</b> The template 
+						can be downloaded from the following link:
+						<a href="http://aip.scitation.org/apc/authors/preppapers" 
+						target="_blank" > http://aip.scitation.org/apc/authors/preppapers</a>
 					</p>
 					<p style="color:#222222; margin: 15px 0px 0px 0px;">
-						The <b>Best Paper Award</b> will be conferred by the programme committee to recognize 
-						and promote quality contributions to academic research in respective fields. 
-						The decision criterion will consider both the paper quality and the oral 
-						presentation quality. The Best Paper Award will be given separately in 
+						The <b>Best Paper Award</b> will be conferred by the programme committee to 
+						recognize and promote quality contributions to academic research in respective 
+						fields. The decision criterion will consider both the paper quality and the 
+						oral presentation quality. The Best Paper Award will be given separately in 
 						each track.
+					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						Article Preparation Checklist: <a href="templates/Article_Preparation_Checklist.pdf" 
+						target="_blank" >Download Checklist</a>
+					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						Template in PDF Format: <a href="templates/AIPCP_Article_Template.pdf" 
+						target="_blank" >Download PDF Template</a>
+					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						Template in Word Format: <a href="templates/AIPCP_Article_Template.docx" 
+						target="_blank" >Download DOC Template</a>
+					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						Template for LaTex users: <a href="https://www.overleaf.com/latex/templates/aip-conference-proceedings/fpznwrhxkkpp" 
+						target="_blank" >Download LaTex Template</a>
 					</p>
 				</div>
 			</div>

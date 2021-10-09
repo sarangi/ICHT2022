@@ -28,7 +28,7 @@
 							<!-- Collapse Body -->
 							<div id="collapseOne" class="collapse" data-parent="#accordion One">
 							  	<div class="card-body">
-									<b class="coordinator">Dr. Julie M David, 9447104152</b>
+									<b class="coordinator">Dr. Julie M David, +919447104152</b>
 									<ul>
 										<li>High Performance Computing and Networks</li>
 										<li>Parallel and Distributed Computing</li>
@@ -57,7 +57,7 @@
 							<!-- Collapse Body -->
 							<div id="collapseTwo" class="collapse" data-parent="#accordion One">
 							  	<div class="card-body">
-									<b class="coordinator">Sam Kollannore U, 9447466716</b>
+									<b class="coordinator">Sam Kollannore U, +919447466716</b>
 									<ul>
 										<li>RF, Microwave and Terahertz Communication</li>
 										<li>Signal and Image Processing</li>
@@ -83,7 +83,7 @@
 							<!-- Collapse Body -->
 							<div id="collapseThree" class="collapse" data-parent="#accordion One">
 							  	<div class="card-body">
-									<b class="coordinator">Dr. Mini K Paul, 9745629677</b>
+									<b class="coordinator">Dr. Mini K Paul, +919745629677</b>
 									<ul>
 										<li>Biochemistry, Biotechnology and Bioengineering</li>
 										<li>Molecular Endocrinology & Nanotechniques</li>
@@ -106,7 +106,7 @@
 							<!-- Collapse Body -->
 							<div id="collapseFour" class="collapse" data-parent="#accordion One">
 								<div class="card-body">
-									<b class="coordinator">Dr. Nithin Chandran, 9995392693</b>
+									<b class="coordinator">Dr. Nithin Chandran, +919995392693</b>
 									<ul>
 										<li>Nanohybrid Materials</li>
 										<li>Bio-nano Composites</li>
@@ -139,7 +139,7 @@
 							<!-- Collapse Body -->
 							<div id="collapseFive" class="collapse" data-parent="#accordion Two">
 							  <div class="card-body">
-							  	<b class="coordinator">Dr. Bindu Jamal, 9048266066</b>
+							  	<b class="coordinator">Dr. Bindu Jamal, +919048266066</b>
 								<ul>
 									<li>Power  and Sustainable Development</li>
 									<li>Ethics, Digital Soul, Sustainability,  Artificial Intelligence</li>
@@ -166,7 +166,7 @@
 							<!-- Collapse Body -->
 							<div id="collapseSix" class="collapse" data-parent="#accordion Two">
 							  	<div class="card-body">
-								  	<b class="coordinator">Dr. Sopna V Muhammed, 9447918418</b>
+								  	<b class="coordinator">Dr. Sopna V Muhammed, +919447918418</b>
 									<ul>
 										<li>Finance and Financial Inclusion</li>
 										<li>Entrepreneurship and Startups</li>
@@ -200,7 +200,7 @@
 							<!-- Collapse Body -->
 							<div id="collapseSeven" class="collapse" data-parent="#accordion Two">
 							  	<div class="card-body">
-									<b class="coordinator">Haneefa K G, 9995508893</b>
+									<b class="coordinator">Haneefa K G, +919995508893</b>
 									<ul>
 										<li>Performance Enhancement</li>
 										<li>Talent Identification</li>
