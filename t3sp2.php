@@ -13,11 +13,12 @@ include 'header.php';?>
 				<div class="col-lg-7 col-md-6 align-self-center">
 					<div class="content-block">
 						<div class="name">
-							<h3>Dr. TAHA NAZIR</h3>
+							<h5>Dr. TAHA NAZIR</h5>
 						</div>
 						<div class="profession">
 							<p>Head,<br>
-                            Microbiology and Molecular Biology Research Group, Forresdale Circle Mississauga, Canada.
+                            Microbiology and Molecular Biology Research Group, <br>
+							Forresdale Circle Mississauga, Canada.
                             </p>
 						</div>
 						<div class="details">

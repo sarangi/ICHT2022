@@ -13,7 +13,7 @@ include 'header.php';?>
 				<div class="col-lg-7 col-md-6 align-self-center">
 					<div class="content-block">
 						<div class="name">
-							<h3>Dr. SAJI GEORGE</h3>
+							<h5>Dr. SAJI GEORGE</h5>
 						</div>
 						<div class="profession">
 							<p>Associate Professor,<br>
