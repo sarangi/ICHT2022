@@ -111,7 +111,8 @@
 							<h5 class="widget-header">Indian Delegates</h5>
 							<ul class="category-list m-0 p-0">
 								<li>Industry Experts<span class="float-right">11000(INR)</span></li>
-								<li>Academicians/Research Scholars<span class="float-right">9000(INR)</span></li>
+								<li>Academicians<span class="float-right">9000(INR)</span></li>
+								<li>Research Scholars<span class="float-right">9000(INR)</span></li>
 								<li>UG/PG Students<span class="float-right">8000(INR)</span></li>
 								<li>Listeners<span class="float-right">1000(INR)</span></li>
 							</ul>
