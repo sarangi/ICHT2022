@@ -2567,7 +2567,10 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .single-speaker .block .content-block .details p {
-  font-size: 0.9375rem;
+  text-align: justify;
+  color: #222222;
+  font-size: 1.1rem;
+  font-weight: 500;
 }
 
 .single-speaker .block .content-block .details p:not(:last-child) {
@@ -2614,6 +2617,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .single-speaker .block-2 .personal-info p, .single-speaker .block-2 .skills p {
   margin-bottom: 15px;
+  text-align: justify;
 }
 
 @media (max-width: 767px) {
