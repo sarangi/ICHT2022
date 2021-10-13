@@ -31,25 +31,30 @@
 									<b class="committee">Advisory Committee Members:</b>
 									<ul>
 										<li>Dr. Julia Gorelik, Professor of Cellular Biophysics, Cardiovascular Science Division, National Heart and Lung Institute, Imperial College, London.</li>
-										<li>Dr. Mohammed Abdul Muneer, Res Scientist & PI, JFK Neuroscience Institute; Assist Professor, Department of Neurology, Hackensack Meridian School of Med. Edison, New Jersey, United States.</li>
-										<li>Dr. Odongo Steven Eyobu, Lecturer, Department of Networks, School of Computing & I.T, Makerere University, Kampala, Uganda.</li>
+										<li>Dr. Justin Paul, Professor, University of Puerto Rico, San Juan, PR, USA.</li>
+										<li>Dr. Mohammed Abdul Muneer, Research Scientist & PI, JFK Neuroscience Institute; Assistant Professor, Department of Neurology, Hackensack Meridian School of Med. Edison, New Jersey, United States.</li>
+										<li>Dr. Odongo Steven Eyobu, Lecturer, Department of Networks, School of Computing & IT, Makerere University, Kampala, Uganda.</li>
 										<li>Dr. Patsy Perry, Reader in Fashion Marketing, International Lead: Fashion, Manchester Fashion Institute, Manchester Metropolitan University, UK.</li>
 										<li>Dr. Wafaa Abed Al Razzaq, Founder and President, International Organization of Creativity for Peace, London, UK.</li>
 										<li>Dr. Žiga Emeršič, Teaching Assistant, Faculty of Computer & Information Science, Computer Vision Lab, University of Ljubljana, Slovenia.</li>
+										<li>Prof. (Dr.) Sabu Thomas, Vice Chancellor, Mahatma Gandhi University, Kottayam, Kerala, India.</li>
+										<li>Prof. (Dr.) K N Madhusoodanan, Vice Chancellor, Cochin University of Science and Technology, Kerala, India.</li>
+										<li>Prof. (Dr.) Dileep Kumar, Pro Vice Chancellor, Gopal Narayan Singh University, Bihar, India.</li>
+										<li>Dr. Binu George Varghese, Director SPESS, Mahatma Gandhi University, Kottayam, Kerala, India.</li>
+										<li>Dr. D S Guru, Professor and Chairman, Department of Studies in Computer Science, University of Mysore, Mysuru, India.</li>
+										<li>Dr. Jisha M S, Director, School of Biosciences, Mahatma Gandhi University, Kottayam, Kerala, India.</li>
+										<li>Dr. K A Zakkariya, Director, DDU Kaushal Kendra and Professor, School of Management Studies, Cochin University of Science and Technology, Kochi, Kerala, India.</li>
+										<li>Prof. Leons Wilfred Vaz, Dean, Department of Physical Education, Pedagogy, LNIPE, Gwalior Madhya Pradesh, India.</li>
 										<li>Dr. Abdulla P, Professor, Division of Electronics Engineering, School of Engineering, Cochin University of Science and Technology, Kerala, India.</li>
 										<li>Dr. A Biju, Principal, MES Asmabi College, Kodungallur, Kerala, India.</li>
-										<li>Dr. Achuthsankar S. Nair, Department of Computational Biology & Bioinformatics, University of Kerala, Karyavattom, Kerala, India.</li>
+										<li>Dr. Achuthsankar S. Nair, Professor, Department of Computational Biology & Bioinformatics, University of Kerala, Karyavattom, Kerala, India.</li>
 										<li>Dr. Ajims P Mohammed, Principal, MES Ponnani College, Malappuram, Kerala, India.</li>
 										<li>Dr. Aparna Lakshmanan S, Department of Mathematics, Cochin University of Science and Technology, Kerala, India.</li>
 										<li>Dr. Binsu C Kovoor, Professor and Head, Division of Information Technology, School of Engineering, Cochin University of Science and Technology, Kerala, India.</li>
-										<li>Dr. D S Guru, Professor and Chairman, DoS in Computer Science, University of Mysore, Mysuru, India.</li>
-										<li>Dr. Dileep Kumar, Pro Vice-Chancellor, Gopal Narayan Singh University, Bihar, India.</li>
 										<li>Dr. E I Abdul Sathar, Professor and Head, Department of Statistics, University of Kerala, India.</li>
-										<li>Dr. Justin Paul, Professor, University of Puerto Rico, San Juan, PR, USA. Distinguished Professor, IIM, Kerala, India & Former Faculty member, University of Washington.</li>
-										<li>Dr. K A Zakkariya, Director, DDU Kaushal Kendra and Professor, School of Management Studies, Cochin University of Science and Technology, Kochi, Kerala, India.</li>
-										<li>Prof. Leons Wilfred Vaz, Dean, Department of Physical Education, Pedagogy, LNIPE, Gwalior Madhya Pradesh, India.</li>
 										<li>Dr. M K Sabu, Professor and Head, Department of Computer Applications, Cochin University of Science and Technology, Kerala, India.</li>
 										<li>Dr. Madhu S Nair, Professor, Department of Computer Science, Cochin University of Science and Technology, Kerala, India.</li>
+										<li>Dr. Praveen Kumar A V, Associate Professor, Department of Electrical & Electronics Engineering, Birla Institute of Technology & Science (BITS), Pilani, Rajasthan, India.</li>
 										<li>Dr. Sibichan K Mathew, Professor and Head (Research), Fashion Management Studies, National Institute of Fashion Technology (NIFT), Delhi, India.</li>
 									</ul>
 							  	</div>
