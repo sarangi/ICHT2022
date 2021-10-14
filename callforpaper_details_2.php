@@ -81,19 +81,19 @@
 					<div class="comment">
 						<div class="widget category">
 							<!-- Widget Header -->
-							<h5 class="widget-header">Registration</h5>
+							<h5 class="widget-header">Paper Upload</h5>
 							<ul class="category-list m-0 p-0">
-								<li><a href="https://easychair.org/conferences/?conf=icht2022" target="_blank">Click here to Register<span class="float-right"></span></a></li>
+								<li><a href="https://easychair.org/conferences/?conf=icht2022" target="_blank">Click here to Upload Paper<span class="float-right"></span></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="person">
 						<div class="media">
 							<!-- Person Image -->
-							<img src="images/speakers/ec.jpg" alt="person-image">
+							<a href="https://easychair.org/conferences/?conf=icht2022" target="_blank"><img src="images/speakers/ec.jpg" alt="Easy Chair"></a>
 							<div class="media-body">
 								<!-- Person Name -->
-								<div class="name"><p>Easy Chair</p></div>
+								<div class="name"><p><a href="https://easychair.org/conferences/?conf=icht2022" target="_blank">Easy Chair</a></p></div>
 								<!-- Profession -->
 								<div class="profession"><p></p></div>
 							</div>

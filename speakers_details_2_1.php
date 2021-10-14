@@ -28,7 +28,7 @@
 						<img src="images/speakers/t1sp2.jpg" alt="speaker" class="img-fluid">
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Dr. TAHA NAZIR</a></h5>
+						<h5><a href="single-speaker.">Dr. TAHA NAZIR</a></h5>
 						<p>Date: 20-01-2022 Time: </p>
 					</div>
 				</div>
