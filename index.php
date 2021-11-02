@@ -36,6 +36,10 @@ include 'header.php';?>
 <?php include 'schedule_detail_2_1.php';?>
 <?php include 'schedule_detail_3.php';?>
 
+<?php include 'support_details_1.php';?>
+<?php include 'support_details_2.php';?>
+<?php include 'support_details_3.php';?>
+
 <?php 
 // include 'register.php';
 ?>
