@@ -35,7 +35,7 @@
 				<!-- Speaker 1 -->
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/speakers/sup_1.jpg" alt="speaker" class="img-fluid">
+						<img src="images/speakers/sup_3.jpg" alt="speaker" class="img-fluid">
 
 					</div>
 					<div class="content text-center">
