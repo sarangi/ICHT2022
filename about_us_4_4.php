@@ -35,6 +35,7 @@
 										<li>Dr. Mohammed Abdul Muneer, Research Scientist & PI, JFK Neuroscience Institute; Assistant Professor, Department of Neurology, Hackensack Meridian School of Med. Edison, New Jersey, United States.</li>
 										<li>Dr. Odongo Steven Eyobu, Lecturer, Department of Networks, School of Computing & IT, Makerere University, Kampala, Uganda.</li>
 										<li>Dr. Patsy Perry, Reader in Fashion Marketing, International Lead: Fashion, Manchester Fashion Institute, Manchester Metropolitan University, UK.</li>
+										<li>Dr. Taha Nazir, Head, Microbiology and Molecular Biology Research Group, Forresdale Circle Mississauga, Canada.</li>
 										<li>Dr. Wafaa Abed Al Razzaq, Founder and President, International Organization of Creativity for Peace, London, UK.</li>
 										<li>Dr. Žiga Emeršič, Teaching Assistant, Faculty of Computer & Information Science, Computer Vision Lab, University of Ljubljana, Slovenia.</li>
 										<li>Prof. (Dr.) Sabu Thomas, Vice Chancellor, Mahatma Gandhi University, Kottayam, Kerala, India.</li>
