@@ -30,14 +30,16 @@
 							  	<div class="card-body">
 									<b class="committee">Advisory Committee Members:</b>
 									<ul>
+										<li>Dr. Fernando Gomes de Souza, Professor, Jr. Macromolecules Institute, Federal University of Rio de Janeiro (UFRJ), BR-21941598 Rio de Janeiro, RJ, Brazil.</li>
 										<li>Dr. Julia Gorelik, Professor of Cellular Biophysics, Cardiovascular Science Division, National Heart and Lung Institute, Imperial College, London.</li>
 										<li>Dr. Justin Paul, Professor, University of Puerto Rico, San Juan, PR, USA.</li>
 										<li>Dr. Mohammed Abdul Muneer, Research Scientist & PI, JFK Neuroscience Institute; Assistant Professor, Department of Neurology, Hackensack Meridian School of Med. Edison, New Jersey, United States.</li>
 										<li>Dr. Odongo Steven Eyobu, Lecturer, Department of Networks, School of Computing & IT, Makerere University, Kampala, Uganda.</li>
 										<li>Dr. Patsy Perry, Reader in Fashion Marketing, International Lead: Fashion, Manchester Fashion Institute, Manchester Metropolitan University, UK.</li>
+										<li>Dr. Srinivasarao Yaragalla, Postdoctoral Researcher, Italian Institute of Technology (IIT), Via Morego 30, Genova, Italy.</li>
 										<li>Dr. Taha Nazir, Head, Microbiology and Molecular Biology Research Group, Forresdale Circle Mississauga, Canada.</li>
 										<li>Dr. Wafaa Abed Al Razzaq, Founder and President, International Organization of Creativity for Peace, London, UK.</li>
-										<li>Dr. Žiga Emeršič, Teaching Assistant, Faculty of Computer & Information Science, Computer Vision Lab, University of Ljubljana, Slovenia.</li>
+										<li>Dr. Ziga Emersic, Teaching Assistant, Faculty of Computer & Information Science, Computer Vision Lab, University of Ljubljana, Slovenia.</li>
 										<li>Prof. (Dr.) Sabu Thomas, Vice Chancellor, Mahatma Gandhi University, Kottayam, Kerala, India.</li>
 										<li>Prof. (Dr.) K N Madhusoodanan, Vice Chancellor, Cochin University of Science and Technology, Kerala, India.</li>
 										<li>Prof. (Dr.) Dileep Kumar, Pro Vice Chancellor, Gopal Narayan Singh University, Bihar, India.</li>

@@ -37,7 +37,8 @@ include 'header.php';?>
 				<div class="col-md-6">
 					<div class="personal-info">
 						<h5>Personal Information</h5>
-                        <p>- 
+                        <p>
+							Ziga Emersic graduated at the Faculty of Computer and Information Science, University of Ljubljana, where he also has a position of a teaching assistant. His research interests include deep learning and biometrics which intersects with his teaching areas. He has coauthored more than 40 research papers and received multiple awards for teaching and research, including European Association for Biometrics Award Max Snijder 2021. He co-organized the first ear recognition competitions: The Unconstrained Ear Recognition Challenge 2017, 2019 and co-organized multiple short machine-learning courses.
 							<br>
 						</p>
 						<p>
