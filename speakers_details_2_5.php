@@ -16,8 +16,8 @@
 
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Dr. SAJI GEORGE</a></h5>
-						<p>Date: 20-01-2022 Time: 8am (IST)</p>
+						<h5><a href="t5sp1.php">Dr. GHASSAN ABDULMAJEED</a></h5>
+						<p>Date: 17-01-2022 Time: 2pm (IST)</p>
 					</div>
 				</div>
 			</div>
@@ -28,32 +28,8 @@
 						<img src="images/speakers/t5sp2.jpg" alt="speaker" class="img-fluid">
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Dr. TAHA NAZIR</a></h5>
-						<p>Date: 20-01-2022 Time: </p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 3 -->
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/t5sp3.jpg" alt="speaker" class="img-fluid">
-					</div>
-					<div class="content text-center">
-						<h5><a href="single-speaker.html">Dr. MOHAMMED ABDUL MUNEER</a></h5>
-						<p>Date: 21-01-2022 Time: </p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 4 -->
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/t5sp4.jpg" alt="speaker" class="img-fluid">
-					</div>
-					<div class="content text-center">
-						<h5><a href="single-speaker.html">Dr. S. DEVANESAN</a></h5>
-						<p>Date: 22-01-2022 Time: </p>
+						<h5><a href="t5sp2.php">Mr. MOHAMMED NASSER GABER</a></h5>
+						<p>Date: 18-01-2022 Time: 2pm</p>
 					</div>
 				</div>
 			</div>
