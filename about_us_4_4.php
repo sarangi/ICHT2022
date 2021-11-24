@@ -39,7 +39,7 @@
 										<li>Dr. Srinivasarao Yaragalla, Postdoctoral Researcher, Italian Institute of Technology (IIT), Via Morego 30, Genova, Italy.</li>
 										<li>Dr. Taha Nazir, Head, Microbiology and Molecular Biology Research Group, Forresdale Circle Mississauga, Canada.</li>
 										<li>Dr. Wafaa Abed Al Razzaq, Founder and President, International Organization of Creativity for Peace, London, UK.</li>
-										<li>Dr. Ziga Emersic, Teaching Assistant, Faculty of Computer & Information Science, Computer Vision Lab, University of Ljubljana, Slovenia.</li>
+										<li>Dr. Ziga Emersics, Teaching Assistant, Faculty of Computer & Information Science, Computer Vision Lab, University of Ljubljana, Slovenia.</li>
 										<li>Prof. (Dr.) Sabu Thomas, Vice Chancellor, Mahatma Gandhi University, Kottayam, Kerala, India.</li>
 										<li>Prof. (Dr.) K N Madhusoodanan, Vice Chancellor, Cochin University of Science and Technology, Kerala, India.</li>
 										<li>Prof. (Dr.) Dileep Kumar, Pro Vice Chancellor, Gopal Narayan Singh University, Bihar, India.</li>
