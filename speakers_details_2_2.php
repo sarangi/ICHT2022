@@ -22,7 +22,7 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 1 -->
+				<!-- Speaker 2 -->
 				<div class="speaker-item">
 					<div class="image">
 						<img src="images/speakers/t2sp2.jpg" alt="speaker" class="img-fluid">
