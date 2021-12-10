@@ -8,7 +8,7 @@
 							<div class="image-block text-center">
 								<a href="#" style="color:#222222">
 									<!-- <img src="images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid"> -->
-									Paper Submission extended up to<br><b>07 December 2021</b>
+									Paper Submission<br>Extended up to<br><b>07 December 2021</b>
 								</a>
 							</div>
 						</li>
@@ -16,7 +16,7 @@
 							<div class="image-block text-center">
 								<a href="#" style="color:#222222">
 									<!-- <img src="images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid"> -->
-									Paper Acceptance Notification - First Cycle<br><b>20 December 2021</b>
+									Paper Acceptance Notification<br>First Cycle<br><b>20 December 2021</b>
 								</a>
 							</div>
 						</li>
@@ -24,7 +24,7 @@
 							<div class="image-block text-center">
 								<a href="#" style="color:#222222">
 									<!-- <img src="images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid"> -->
-									Paper Acceptance Notification - Second Cycle<br><b>31 December 2021</b>
+									Paper Acceptance Notification<br>Second Cycle<br><b>31 December 2021</b>
 								</a>
 							</div>
 						</li>						
@@ -32,7 +32,7 @@
 							<div class="image-block text-center">
 								<a href="#" style="color:#222222">
 									<!-- <img src="images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid"> -->
-									Registration starts from <br><b>27 December 2021</b>
+									Registration<br>Starts from <br><b>27 December 2021</b>
 								</a>
 							</div>
 						</li>						
