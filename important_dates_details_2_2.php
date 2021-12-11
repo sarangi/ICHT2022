@@ -8,7 +8,7 @@
 							<div class="image-block text-center">
 								<a href="#" style="color:#222222">
 									<!-- <img src="images/sponsors/pt-spon-two.png" alt="sponsors-logo" class="img-fluid"> -->
-									Paper Submission<br>Extended up to<br><b>07 December 2021</b>
+									Paper Submission<br>Extended up to<br><b>20 December 2021</b>
 								</a>
 							</div>
 						</li>
