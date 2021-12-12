@@ -24,7 +24,7 @@ include 'header.php';?>
 							</p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: Computer Phishing and its awareness
 							<br>
 							</p>
 						</div>
@@ -38,6 +38,7 @@ include 'header.php';?>
 					<div class="personal-info">
 						<h5>Personal Information</h5>
                         <p>  
+							Mr. Rajendra Bahadur Thapa is an Assistant Professor at Gandaki College of Engineering and Science, Pokhara University. He is MPhil scholar in Information and Communication Technology. His research area is in Computer Phishing, deep learning, technology transfer and technology adaptation.
 							<br>
 						</p>
 						<p>
