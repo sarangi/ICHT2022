@@ -29,7 +29,7 @@
 
 					</div>
 					<div class="content text-center">
-						<h5><a href="t1sp2.php">Dr. RAJENDRA BAHADUR THAPA</a></h5>
+						<h5><a href="t1sp2.php">Mr. RAJENDRA BAHADUR THAPA</a></h5>
 						<p>Date: Time: </p>
 					</div>
 				</div>
