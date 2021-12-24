@@ -34,4 +34,17 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-lg-3 col-md-4 col-sm-6">
+				<!-- Speaker 2 -->
+				<div class="speaker-item">
+					<div class="image">
+						<img src="images/speakers/t6sp3.jpg" alt="speaker" class="img-fluid">
+
+					</div>
+					<div class="content text-center">
+						<h5><a href="t6sp3.php">DR. ISMAIL ADELOPO</a></h5>
+						<p>Date: 18-01-2022 Time: 3.30pm (IST)</p>
+					</div>
+				</div>
+			</div>
 		</div>
