@@ -55,6 +55,10 @@
 						Template for LaTex users: <a href="https://www.overleaf.com/latex/templates/aip-conference-proceedings/fpznwrhxkkpp" 
 						target="_blank" style="text-decoration: underline;">Download LaTex Template</a>
 					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						Declaration &amp; Copyright Transfer Form: <a href="templates/Copyright_Transfer.docx" 
+						target="_blank" style="text-decoration: underline;">Download Declaration &amp; Copyright Transfer Form</a>
+					</p>
 				</div>
 			</div>
 		</div>
@@ -73,6 +77,39 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="block text-justify">
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						All the authors of accepted paper and attendees are required to pay the applicable fee to the following account:
+					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						Bank Name			: FEDERAL BANK<br>
+						Bank Branch			: MARAMPALLY<br>
+						City				: ALUVA<br>
+						Country				: INDIA<br>
+						Account Number		: 19480100045668<br>
+						Account Name		: JASEENA K U<br>
+						Bank Branch Code	: 001948<br>
+						IFSC Code			: FDRL0001948<br>
+						MICR Code of Bank	: 682049062<br><br>
+					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						After making the payment, all the authors/listeners are required to register through the following link:
+						<a href="https://forms.gle/wXSEy6HxtJB5KFAy9" 
+						target="_blank" style="text-decoration: underline;">Registration Link for ICHT-2022 Conference</a>
+					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						To ensure publication of a paper in the AIP Conference Proceedings, at least one author has to register by submitting a normal registration fee within deadline.
+					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						All the authors are required to register before the following given deadline:<br>
+						Early Registration Deadline: 30th December 2021 11:59:59 PM (IST)<br>
+						Final registration Deadline: 7th January 2022 11:59:59 PM (IST)<br>
+					</p>
+					<p style="color:#222222; margin: 15px 0px 0px 0px;">
+						Please note that ICHT-2022 will be held in virtual mode only.
+					</p>
+
 		<div class="row mt-20">
 			<div class="col-lg-4 col-md-6 mb-20">
 				<!-- Testimonial -->
