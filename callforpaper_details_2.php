@@ -68,7 +68,7 @@
 =            Testimonial            =
 ==================================-->
 
-<section class="se ction testimonial">
+<section class="section testimonial">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
