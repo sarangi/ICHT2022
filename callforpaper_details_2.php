@@ -1,7 +1,7 @@
 		<div class="row">
 			<div class="col-12">
 				<!-- Title -->
-				<div class="block text-justify">
+				<div class="text-justify">
 					<p style="color:#222222">
 						The Multidisciplinary <b>International Conference on Humans and Technology: A Holistic 
 						and Symbiotic Approach to Sustainable Development, ICHT 2022</b>, aims to bring together 
@@ -68,7 +68,7 @@
 =            Testimonial            =
 ==================================-->
 
-<section class="se ction testimonial">
+<section class="section testimonial">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -78,33 +78,35 @@
 			</div>
 		</div>
 
-		<div class="block text-justify">
+		<div class="col-12">
 					<p style="color:#222222; margin: 15px 0px 0px 0px;">
 						All the authors of accepted paper and attendees are required to pay the applicable fee to the following account:
 					</p>
-					<p style="color:#222222; margin: 15px 0px 0px 0px;">
-						Bank Name			: FEDERAL BANK<br>
-						Bank Branch			: MARAMPALLY<br>
-						City				: ALUVA<br>
-						Country				: INDIA<br>
-						Account Number		: 19480100045668<br>
-						Account Name		: JASEENA K U<br>
-						Bank Branch Code	: 001948<br>
-						IFSC Code			: FDRL0001948<br>
-						MICR Code of Bank	: 682049062<br><br>
-					</p>
+					<strong>
+						<p style="color:#222222; margin: 15px 0px 0px 0px;">
+							Bank Name			: FEDERAL BANK<br>
+							Bank Branch			: MARAMPALLY<br>
+							City				: ALUVA<br>
+							Country				: INDIA<br>
+							Account Number		: 19480100045668<br>
+							Account Name		: JASEENA K U<br>
+							Bank Branch Code	: 001948<br>
+							IFSC Code			: FDRL0001948<br>
+							MICR Code of Bank	: 682049062<br><br>
+						</p>
+					</strong>
 					<p style="color:#222222; margin: 15px 0px 0px 0px;">
 						After making the payment, all the authors/listeners are required to register through the following link:
 						<a href="https://forms.gle/wXSEy6HxtJB5KFAy9" 
-						target="_blank" style="text-decoration: underline;">Registration Link for ICHT-2022 Conference</a>
+						target="_blank" style="text-decoration: underline;"><br><strong>Registration Link for ICHT-2022 Conference</strong></a>
 					</p>
 					<p style="color:#222222; margin: 15px 0px 0px 0px;">
 						To ensure publication of a paper in the AIP Conference Proceedings, at least one author has to register by submitting a normal registration fee within deadline.
 					</p>
 					<p style="color:#222222; margin: 15px 0px 0px 0px;">
 						All the authors are required to register before the following given deadline:<br>
-						Early Registration Deadline: 30th December 2021 11:59:59 PM (IST)<br>
-						Final registration Deadline: 7th January 2022 11:59:59 PM (IST)<br>
+						<strong>Early Registration Deadline: 30th December 2021 11:59:59 PM (IST)<br>
+						Final registration Deadline: 7th January 2022 11:59:59 PM (IST)<br></strong>
 					</p>
 					<p style="color:#222222; margin: 15px 0px 0px 0px;">
 						Please note that ICHT-2022 will be held in virtual mode only.
