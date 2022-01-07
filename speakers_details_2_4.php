@@ -53,7 +53,7 @@
 					</div>
 					<div class="content text-center">
 						<h5><a href="t4sp4.php">Dr. KRISHNENDRA SHEKHAWAT</a></h5>
-						<p>Date:  Time: </p>
+						<p>Date: 22-01-2022 Time: 11am(IST)</p>
 					</div>
 				</div>
 			</div>

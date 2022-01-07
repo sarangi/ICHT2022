@@ -23,7 +23,7 @@ include 'header.php';?>
                             </p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: Impact of Covid on Careers in Physical Education/ Sports and how the Digital World can help.
 							<br>
 							</p>
 						</div>

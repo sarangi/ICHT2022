@@ -17,7 +17,7 @@
 					</div>
 					<div class="content text-center">
 						<h5><a href="t7sp1.php">Prof. FLOMNY MENON</a></h5>
-						<p>Date:  Time: </p>
+						<p>Date: 19.01.2022 Time: 2.00 pm (IST)</p>
 					</div>
 				</div>
 			</div>
