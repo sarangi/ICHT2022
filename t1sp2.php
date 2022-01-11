@@ -13,18 +13,17 @@ include 'header.php';?>
 				<div class="col-lg-7 col-md-6 align-self-center">
 					<div class="content-block">
 						<div class="name">
-							<h5>Mr. RAJENDRA BAHADUR THAPA</h5>
+							<h5>Dr. CELI1 SHEHNAZ</h5>
 						</div>
 						<div class="profession">
 							<p>
-								Coordinator, Research Management Cell<br>
-								Gandaki College of Engineering and Science<br>
-								Lamachaur, Pokhara<br>
-								Nepal.
+								Professor, Department of EEE<br>
+								Bangladesh University of Engineering and Technology(BUET)<br>
+								Bangladesh<br>
 							</p>
 						</div>
 						<div class="details">
-							<p >Title of talk: Computer Phishing and its awareness
+							<p >Title of talk: 
 							<br>
 							</p>
 						</div>
@@ -38,7 +37,7 @@ include 'header.php';?>
 					<div class="personal-info">
 						<h5>Personal Information</h5>
                         <p>  
-							Mr. Rajendra Bahadur Thapa is an Assistant Professor at Gandaki College of Engineering and Science, Pokhara University. He is MPhil scholar in Information and Communication Technology. His research area is in Computer Phishing, deep learning, technology transfer and technology adaptation.
+							
 							<br>
 						</p>
 						<p>

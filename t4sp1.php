@@ -25,7 +25,7 @@ include 'header.php';?>
 							</p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: Polyesters as Multi-platform Materials Improving Quality of Life.
 							<br>
 							</p>
 						</div>

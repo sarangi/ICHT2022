@@ -22,7 +22,7 @@ include 'header.php';?>
                             </p>
 						</div>
 						<div class="details">
-							<p >Title of talk: Graph Theory and its Applications
+							<p >Title of talk: Graph Theoretic Applications to Architectural Design
 							<br>
 							</p>
 						</div>

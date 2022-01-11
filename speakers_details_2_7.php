@@ -21,4 +21,18 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-lg-3 col-md-4 col-sm-6">
+				<!-- Speaker 2 -->
+				<div class="speaker-item">
+					<div class="image">
+						<img src="images/speakers/t7sp2.jpg" alt="speaker" class="img-fluid">
+
+					</div>
+					<div class="content text-center">
+						<h5><a href="t7sp2.php">Dr. REWATHY RATHNAMOORTHY</a></h5>
+						<p>Date: 20-01-2022 Time: 2pm (IST)</p>
+					</div>
+				</div>
+			</div>
+
 		</div>

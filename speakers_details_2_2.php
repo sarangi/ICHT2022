@@ -17,7 +17,7 @@
 					</div>
 					<div class="content text-center">
 						<h5><a href="t2sp1.php">Dr. ZIGA EMERSIC</a></h5>
-						<p>Date: 19-01-2022 Time: </p>
+						<p>Date: 19-01-2022 Time: 2pm(IST)</p>
 					</div>
 				</div>
 			</div>
@@ -30,7 +30,7 @@
 					</div>
 					<div class="content text-center">
 						<h5><a href="t2sp2.php">Dr. ODONGO STEVEN EYOBU</a></h5>
-						<p>Date: 20-01-2022 Time: 9am EAT</p>
+						<p>Date: 20-01-2022 Time: 11.30am (IST)</p>
 					</div>
 				</div>
 			</div>

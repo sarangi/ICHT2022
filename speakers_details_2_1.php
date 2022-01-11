@@ -17,7 +17,7 @@
 					</div>
 					<div class="content text-center">
 						<h5><a href="t1sp1.php">Dr. D S GURU</a></h5>
-						<p>Date: 17-01-2022 Time: </p>
+						<p>Date: 17-01-2022 Time: 11am (IST)</p>
 					</div>
 				</div>
 			</div>
@@ -29,8 +29,8 @@
 
 					</div>
 					<div class="content text-center">
-						<h5><a href="t1sp2.php">Mr. RAJENDRA BAHADUR THAPA</a></h5>
-						<p>Date: Time: </p>
+						<h5><a href="t1sp2.php">Dr. CELIA SHEHNAZ</a></h5>
+						<p>Date: 18-01-2022 Time: 10am (IST)</p>
 					</div>
 				</div>
 			</div>

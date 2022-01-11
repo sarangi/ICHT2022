@@ -24,7 +24,7 @@ include 'header.php';?>
 							</p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: AI in Reality: Challenges and Opportunities
 							<br>
 							</p>
 						</div>

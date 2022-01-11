@@ -29,7 +29,7 @@
 					</div>
 					<div class="content text-center">
 						<h5><a href="t5sp2.php">Mr. MOHAMMED NASSER GABER</a></h5>
-						<p>Date: 18-01-2022 Time: 2pm</p>
+						<p>Date: 18-01-2022 Time: 2pm (IST)</p>
 					</div>
 				</div>
 			</div>
