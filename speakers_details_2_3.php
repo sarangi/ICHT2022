@@ -29,7 +29,7 @@
 					</div>
 					<div class="content text-center">
 						<h5><a href="t3sp2.php">Dr. TAHA NAZIR</a></h5>
-						<p>Date: 20-01-2022 Time: </p>
+						<p>Date: 21-01-2022 Time: 8am (IST)</p>
 					</div>
 				</div>
 			</div>
@@ -40,8 +40,8 @@
 						<img src="images/speakers/t3sp3.jpg" alt="speaker" class="img-fluid">
 					</div>
 					<div class="content text-center">
-						<h5><a href="t3sp3.php">Dr. MOHAMMED ABDUL MUNEER</a></h5>
-						<p>Date: 21-01-2022 Time: </p>
+						<h5><a href="t3sp3.php">Dr. HAMSA THAYELE PURAYIL</a></h5>
+						<p>Date: 21-01-2022 Time: 9am (IST)</p>
 					</div>
 				</div>
 			</div>
@@ -52,8 +52,8 @@
 						<img src="images/speakers/t3sp4.jpg" alt="speaker" class="img-fluid">
 					</div>
 					<div class="content text-center">
-						<h5><a href="t3sp4.php">Dr. S. DEVANESAN</a></h5>
-						<p>Date: 22-01-2022 Time: </p>
+						<h5><a href="t3sp4.php">Dr. SHERIN SAHEERA</a></h5>
+						<p>Date: 22-01-2022 Time: 8am (IST)</p>
 					</div>
 				</div>
 			</div>

@@ -16,14 +16,13 @@ include 'header.php';?>
 							<h5>Dr. MOHAMMED ABDUL MUNEER</h5>
 						</div>
 						<div class="profession">
-							<p>Research Scientist & PI,<br>
-                            JFK Neuroscience Institute; Assist Professor, Dept of Neurology, <br>
-                            Hackensack Meridian School of Med. <br>
-                            Edison, New Jersey, United States.
+							<p>Scientist, Sidney Kimmel Cancer Center<br>
+                            Thomas Jefferson University <br>
+                            Philadelphia, PA-USA <br>
                             </p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: New Developments in Cancer Research
 							<br>
 							</p>
 						</div>
@@ -36,8 +35,10 @@ include 'header.php';?>
 				<div class="col-md-6">
 					<div class="personal-info">
 						<h5>Personal Information</h5>
-                        <p>Dr. Mohammed Abdul Muneer focuses on the underlying mechanisms of central nervous system (CNS) injury such as traumatic brain injury (TBI) and spinal cord injury (SCI) associated neurovascular inflammation and neurodegeneration with the objective of developing effective therapeutic strategies to enhance recovery from TBI and SCI mediated neurological dysfunctions.
-						<br>
+                        <p>Dr. Hamsa Thayele Purayil completed his Ph.D. from Mahatma Gandhi University, Kerala, India in 2011. He completed his M.S. Biotechnology from Cochin University of Science and Technology, India in 2002. <br><br>Over the last decade, his work focused on the initiation and progression of human cancers. His particular interest is to unveil novel cancer cell signaling pathways, identify potential therapeutic targets/ biomarkers, and develop treatment options/potential drugs. He has been involved in crucial discoveries that unraveled novel mechanisms in human prostate and kidney cancers. His career goal is to continue his passion through the industrial or academic environment and benefit patients. He has a broad background in medical science research with specific training and expertise in pharmacology, biochemistry, cell biology, and molecular biology. He is a self-motivated and innovative research scientist with a specialization in pharmacology, cell biology, biochemistry, and molecular biology.
+						<br><br>
+						He has extensive experiences in scientific writing with more than 20 peer-reviewed scientific publications in high-impact journals including PNAS, Oncogene, Cancer Research, Scientific Reports, Cancer Letters, JBC, etc.
+
 						</p>
 					</div>
 				</div>

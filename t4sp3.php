@@ -23,7 +23,7 @@ include 'header.php';?>
                             </p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: Some Combinatorial Invariants
 							<br>
 							</p>
 						</div>

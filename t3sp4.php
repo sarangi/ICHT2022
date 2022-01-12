@@ -13,16 +13,16 @@ include 'header.php';?>
 				<div class="col-lg-7 col-md-6 align-self-center">
 					<div class="content-block">
 						<div class="name">
-							<h5>Dr. S. DEVANESAN</h5>
+							<h5>Dr. SHERIN SAHEERA</h5>
 						</div>
 						<div class="profession">
-							<p>Scientist at Research Chair in Laser Diagnosis of Cancer,<br>
-                            Department of Physics, College of Science King Saud University Riyadh,<br>
-                            Saudi Arabia.<br>
+							<p>Postdoctoral Associate<br>
+                            University of Massachusetts Medical School,<br>
+                            USA.<br>
                             </p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: Novel Mechanisms of Exosome Mediated Protection after Cardiac Ischemic Injury
 							<br>
 							</p>
 						</div>
@@ -35,7 +35,7 @@ include 'header.php';?>
 				<div class="col-md-6">
 					<div class="personal-info">
 						<h5>Personal Information</h5>
-                        <p>Dr. Sandhanasamy Devanesan has completed his Ph.D. in Biochemistry and currently working as a Scientist at Research Chair in Laser Diagnosis of Cancer, Department of Physics, College of Science King Saud University Riyadh, Saudi Arabia. He holds six US patents, and he has published 70 Research articles from highly reputed international journals. Area of Research Interest includes Simple route to the synthesis of  nanoparticles using medicinal plants and their biological properties and Fluorescence Biomolecules Based  on Diagnosis of Blood Disorders by Spectral Methods.
+                        <p>Dr. Sherin Saheera completed her Ph.D. from Sree Chitra Tirunal Institute for Medical Sciences and Technology, Kerala, India in 2017 and went to the USA to pursue her postdoctoral studies. After 1 year of postdoc at the University of Alabama, she is currently working as a Postdoctoral Associate at University of Massachusetts Medical School, USA since 2019 January. She has over 15 publications in peer-reviewed high-impact international journals and has been serving as an editorial board member and reviewer for reputed journals. She presented papers at several national and international conferences and has got many accolades.
 						<br>
 						</p>
 					</div>
