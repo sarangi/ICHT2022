@@ -23,7 +23,7 @@ include 'header.php';?>
 							</p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: Research and Innovation to Meet the Sustainable Development Goals.
 							<br>
 							</p>
 						</div>

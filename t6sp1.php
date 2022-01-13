@@ -23,7 +23,7 @@ include 'header.php';?>
                             </p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: Using Traditional Knowledge of Design for Crafting a Sustainable Future.
 							<br>
 							</p>
 						</div>
