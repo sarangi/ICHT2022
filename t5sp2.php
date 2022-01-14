@@ -23,7 +23,7 @@ include 'header.php';?>
                             </p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: A multi perspective analysis on Artificial Intelligence in Education in the 21st century.
 							<br>
 							</p>
 						</div>

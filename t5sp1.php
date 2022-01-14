@@ -23,7 +23,7 @@ include 'header.php';?>
                             </p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: Contributions of Immigrants in the Countries to which they immigrated: Syrian Immigrants as a model.
 							<br>
 							</p>
 						</div>

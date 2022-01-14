@@ -29,7 +29,7 @@
 
 					</div>
 					<div class="content text-center">
-						<h5><a href="t7sp2.php">Dr. REWATHY RATHNAMOORTHY</a></h5>
+						<h5><a href="t7sp2.php">Ms. REWATHY RATHNAMOORTHY</a></h5>
 						<p>Date: 20-01-2022 Time: 2pm (IST)</p>
 					</div>
 				</div>
