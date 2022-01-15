@@ -22,7 +22,7 @@ include 'header.php';?>
                             </p>
 						</div>
 						<div class="details">
-							<p >Title of talk: 
+							<p >Title of talk: Emerging Immunomodulation Technologies may Potential Improve the Clinical Health Care.
 							<br>
 							</p>
 						</div>
