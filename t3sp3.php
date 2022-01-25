@@ -13,7 +13,7 @@ include 'header.php';?>
 				<div class="col-lg-7 col-md-6 align-self-center">
 					<div class="content-block">
 						<div class="name">
-							<h5>Dr. MOHAMMED ABDUL MUNEER</h5>
+							<h5>Dr. HAMSA THAYELE PURAYIL</h5>
 						</div>
 						<div class="profession">
 							<p>Scientist, Sidney Kimmel Cancer Center<br>
